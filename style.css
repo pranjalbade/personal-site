@@ -1,0 +1,27 @@
+.hero-section{
+   background-image: url('./Assets/bg.jpg');
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+}
+
+.hero-text{
+    font-family: "Kalam", "Pacifico", cursive;
+    font-weight: 700;
+    color: #AF7AD5;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+.footer-bg{
+    background-color: #AF7AD5;
+}
+
+.hello-text{
+    color: #AF7AD5 !important;;
+}
